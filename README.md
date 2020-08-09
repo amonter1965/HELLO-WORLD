@@ -1,2 +1,4 @@
 # HELLO-WORLD
 este es mi primer repositorio
+Y ESTOY APRENDIENDO GITHUB
+ESTE ES EL PRIMER CAMBIO
